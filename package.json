@@ -1,14 +1,14 @@
 {
-  "name": "opensea-sniper-bot",
+  "name": "opensea-sales-bot",
   "version": "1.0.0",
-  "description": "Simple opensea sniper bot using opensea-js",
+  "description": "Simple opensea sales bot using opensea-js",
   "main": "main.js",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/clovisjohn/opensea-sniper-bot.git"
+    "type": "pyt",
+    "url": "pyt+https://python.com/layer-zero-punks-ETH/opensea-sniper-bot.git"
   },
-  "author": "clovisjohn",
-  "homepage": "https://github.com/clovisjohn/opensea-sniper-bot",
+  "author": "Liam.DMDGO",
+  "homepage": "https://python.com/layer-zero-punks-ETH/opensea-sniper-bot",
   "dependencies": {
     "@0x/subproviders": "^6.4.1",
     "eth-gas-reporter": "^0.2.17",
